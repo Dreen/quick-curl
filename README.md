@@ -1,4 +1,4 @@
-php-quick-curl
+quick-curl
 ==============
 
-A shorthand class for sending HTTP requests with cURL in PHP
+A shorthand class for sending HTTP requests with cURL in PHP and Python
